@@ -1,0 +1,15 @@
+scikit-learn
+scikit-image
+tensorboard==2.10.1
+nerfacc==0.5.3
+git+https://github.com/NVlabs/tiny-cuda-nn/#subdirectory=bindings/torch
+tqdm 
+sparse
+configargparse
+h5py
+imgviz
+pyyaml
+ninja
+lpips
+ast
+imageio
