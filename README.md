@@ -1,5 +1,5 @@
 # Flying with Photons: Rendering Novel Views of Propagating Light 
-### [Project Page](http://www.anaghmalik.com/FlyingWithPhotons/) | [Video](https://www.youtube.com/watch?v=dSFR8rs11vI) | [Paper](https://arxiv.org/abs/2112.04645)
+### [Project Page](http://www.anaghmalik.com/FlyingWithPhotons/) | [Video](https://www.youtube.com/watch?v=dSFR8rs11vI) | [Paper](https://arxiv.org/abs/2404.06493)
 
 ## Installation
 
