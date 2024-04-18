@@ -38,7 +38,7 @@ python train.py -c="./configs/train/captured/coke.ini"
 
 You can then evaluate the same scene (to get quantitative and image results) with
 ```
-python eval.py -c="./configs/train/captured/coke.ini" -tc="./configs/test/captured/coke.ini" -checkpoint_dir=[trained model directory root]
+python eval.py -c="./configs/train/captured/coke.ini" -tc="./configs/test/captured/coke.ini" --checkpoint_dir=[trained model directory root]
 ```
 
 To see the summary during training, run the following
